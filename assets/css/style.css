@@ -47,7 +47,7 @@ body {
   --rotation: 150deg;
 }
 .clock .number6 {
-  --rotation: 180deg;
+  --rotation: 360deg;
 }
 .clock .number7 {
   --rotation: 210deg;
